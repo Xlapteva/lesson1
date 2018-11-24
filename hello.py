@@ -1,0 +1,2 @@
+name = "K"
+print (name)
